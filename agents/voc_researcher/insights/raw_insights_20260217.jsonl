@@ -1,0 +1,40 @@
+{"review_id":"5","sentiment":"positive","intensity":8,"pain_points":["fatigue"],"jobs_to_be_done":"wanted less fatigue during retail shift","product_features":[],"shift_context":"retail shift"}
+{"review_id":"1","sentiment":"positive","intensity":7,"pain_points":["feet hurt"],"jobs_to_be_done":"worked 12 hour shift","product_features":["arch support"],"shift_context":"12 hour shift"}
+{"review_id":"4","sentiment":"negative","intensity":7,"pain_points":["Shoe rubs heel"],"jobs_to_be_done":"Long warehouse shift","product_features":[],"shift_context":"long warehouse shift"}
+{"review_id":"3","sentiment":"positive","intensity":8,"pain_points":[],"jobs_to_be_done":"Slip resistance on wet kitchen floors","product_features":["slip resistance"],"shift_context":null}
+{"review_id":"2","sentiment":"negative","intensity":3,"pain_points":["too stiff initially"],"jobs_to_be_done":"comfort for long nursing shift","product_features":[],"shift_context":"long nursing shift"}
+{"review_id":"8","sentiment":"positive","intensity":8,"pain_points":["plantar pain"],"jobs_to_be_done":"reduced plantar pain on shift","product_features":["arch support"],"shift_context":"shift"}
+{"review_id":"6","sentiment":"negative","intensity":5,"pain_points":["Runs narrow"],"jobs_to_be_done":"Needed wider toe box for swelling","product_features":[],"shift_context":null}
+{"review_id":"7","sentiment":"positive","intensity":8,"pain_points":[],"jobs_to_be_done":"clean up spills","product_features":["easy to clean"],"shift_context":"night shift"}
+{"review_id":"10","sentiment":"positive","intensity":7,"pain_points":["standing all day"],"jobs_to_be_done":"Needed shoes for standing all day","product_features":[],"shift_context":null}
+{"review_id":"9","sentiment":"negative","intensity":5,"pain_points":["Laces fray fast"],"jobs_to_be_done":"daily use","product_features":[],"shift_context":null}
+{"review_id":"4","sentiment":"negative","intensity":7,"pain_points":["Shoe rubs heel"],"jobs_to_be_done":"Long warehouse shift","product_features":[],"shift_context":"long warehouse shift"}
+{"review_id":"5","sentiment":"positive","intensity":8,"pain_points":["fatigue"],"jobs_to_be_done":"wanted less fatigue during retail shift","product_features":[],"shift_context":"retail shift"}
+{"review_id":"2","sentiment":"negative","intensity":5,"pain_points":["too stiff initially"],"jobs_to_be_done":"comfort for long nursing shift","product_features":[],"shift_context":"long nursing shift"}
+{"review_id":"1","sentiment":"positive","intensity":7,"pain_points":["feet hurt"],"jobs_to_be_done":"worked 12 hour shift","product_features":["arch support"],"shift_context":"12 hour shift"}
+{"review_id":"3","sentiment":"positive","intensity":8,"pain_points":[],"jobs_to_be_done":"Slip resistance on wet kitchen floors","product_features":["slip resistance"],"shift_context":null}
+{"review_id":"7","sentiment":"positive","intensity":8,"pain_points":[],"jobs_to_be_done":"clean up spills","product_features":["easy to clean"],"shift_context":"12 hour shift"}
+{"review_id":"6","sentiment":"negative","intensity":5,"pain_points":["Runs narrow"],"jobs_to_be_done":"Needed wider toe box for swelling","product_features":[],"shift_context":null}
+{"review_id":"8","sentiment":"positive","intensity":8,"pain_points":["plantar pain"],"jobs_to_be_done":"reduced plantar pain on shift","product_features":["arch support"],"shift_context":"shift"}
+{"review_id":"9","sentiment":"negative","intensity":5,"pain_points":["Laces fray fast"],"jobs_to_be_done":"daily use","product_features":[],"shift_context":null}
+{"review_id":"10","sentiment":"positive","intensity":8,"pain_points":["standing all day"],"jobs_to_be_done":"Needed shoes for standing all day","product_features":[],"shift_context":null}
+{"review_id":"3","sentiment":"positive","intensity":8,"pain_points":[],"jobs_to_be_done":"Slip resistance on wet kitchen floors","product_features":["slip resistance"],"shift_context":null}
+{"review_id":"4","sentiment":"negative","intensity":7,"pain_points":["Shoe rubs heel"],"jobs_to_be_done":"Long warehouse shift","product_features":[],"shift_context":"long warehouse shift"}
+{"review_id":"2","sentiment":"negative","intensity":5,"pain_points":["too stiff initially"],"jobs_to_be_done":"comfort for long nursing shift","product_features":[],"shift_context":"long nursing shift"}
+{"review_id":"5","sentiment":"positive","intensity":8,"pain_points":["fatigue"],"jobs_to_be_done":"wanted less fatigue during retail shift","product_features":[],"shift_context":"retail shift"}
+{"review_id":"1","sentiment":"positive","intensity":7,"pain_points":["feet hurt"],"jobs_to_be_done":"worked 12 hour shift","product_features":["arch support"],"shift_context":"12 hour shift"}
+{"review_id":"6","sentiment":"negative","intensity":5,"pain_points":["Runs narrow"],"jobs_to_be_done":"Needed wider toe box for swelling","product_features":[],"shift_context":null}
+{"review_id":"7","sentiment":"positive","intensity":8,"pain_points":[],"jobs_to_be_done":"clean up spills","product_features":["easy to clean"],"shift_context":"12 hour shift"}
+{"review_id":"8","sentiment":"positive","intensity":8,"pain_points":["plantar pain"],"jobs_to_be_done":"reduced plantar pain on shift","product_features":["arch support"],"shift_context":"shift"}
+{"review_id":"9","sentiment":"negative","intensity":5,"pain_points":["Laces fray fast"],"jobs_to_be_done":"daily use","product_features":[],"shift_context":null}
+{"review_id":"10","sentiment":"positive","intensity":8,"pain_points":["standing all day"],"jobs_to_be_done":"Needed shoes for standing all day","product_features":[],"shift_context":null}
+{"review_id":"2","sentiment":"negative","intensity":5,"pain_points":["Too stiff initially"],"jobs_to_be_done":"Needed comfort for long nursing shift","product_features":[],"shift_context":"long nursing shift"}
+{"review_id":"3","sentiment":"positive","intensity":8,"pain_points":[],"jobs_to_be_done":"Slip resistance on wet kitchen floors","product_features":["slip resistance"],"shift_context":null}
+{"review_id":"5","sentiment":"positive","intensity":8,"pain_points":[],"jobs_to_be_done":"Wanted less fatigue during retail shift","product_features":["lightweight"],"shift_context":"retail shift"}
+{"review_id":"4","sentiment":"negative","intensity":7,"pain_points":["Shoe rubs heel"],"jobs_to_be_done":"Long warehouse shift","product_features":[],"shift_context":"long warehouse shift"}
+{"review_id":"1","sentiment":"positive","intensity":7,"pain_points":["feet hurt"],"jobs_to_be_done":"worked 12 hour shift","product_features":["arch support"],"shift_context":"12 hour shift"}
+{"review_id":"6","sentiment":"negative","intensity":5,"pain_points":["Runs narrow"],"jobs_to_be_done":"Needed wider toe box for swelling","product_features":[],"shift_context":null}
+{"review_id":"7","sentiment":"positive","intensity":8,"pain_points":[],"jobs_to_be_done":"clean up spills","product_features":["easy to clean"],"shift_context":"12 hour shift"}
+{"review_id":"8","sentiment":"positive","intensity":8,"pain_points":["plantar pain"],"jobs_to_be_done":"reduced plantar pain on shift","product_features":["arch support"],"shift_context":"shift"}
+{"review_id":"9","sentiment":"negative","intensity":5,"pain_points":["Laces fray fast"],"jobs_to_be_done":"daily use","product_features":[],"shift_context":null}
+{"review_id":"10","sentiment":"positive","intensity":7,"pain_points":["standing all day"],"jobs_to_be_done":"Needed shoes for standing all day","product_features":[],"shift_context":null}

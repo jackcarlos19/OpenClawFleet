@@ -1,0 +1,68 @@
+# Creative Brief (20260217)
+
+## Target Audience
+Healthcare, retail, and warehouse workers pulling 12-hour shifts who experience foot pain and fatigue
+
+## Core Pain Points
+- Constant foot pain during long 12-hour shifts
+- Physical fatigue from standing all day
+- Dealing with wet/slippery workplace floors
+
+## Angle Hypotheses
+### Angle 1
+- Problem: Nurses dreading another 12-hour shift because of aching feet
+- Solution: All-day comfort technology that lets you focus on patients, not pain
+
+### Angle 2
+- Problem: Retail workers fighting fatigue during long shifts
+- Solution: Energy-returning support that keeps you feeling fresh hour after hour
+
+### Angle 3
+- Problem: Warehouse workers concerned about slippery conditions
+- Solution: Grip technology that handles wet floors with confidence
+
+## Hooks
+- "I used to count down the hours until I could take my shoes off..."
+- Pulling another 12-hour shift? Your feet are about to thank you
+- What nurses wish they knew about foot pain before their first long shift
+- The real reason you're exhausted after your warehouse shift
+- Tested by real healthcare workers during 12-hour shifts
+- When your feet hurt less, everything hurts less
+- Finally - work shoes that understand hospital floors
+- Your feet vs. 12-hour shifts: Here's what changes everything
+- The secret to surviving back-to-back long shifts
+- Why retail workers are switching to these shoes
+
+## 15s Scripts
+### Script 15s #1
+- Visual Cue: Healthcare worker changing into shoes at locker
+- Audio Script: Remember when your feet used to scream after every 12-hour shift? That was before these. Designed specifically for healthcare workers who don't have time for foot pain.
+
+### Script 15s #2
+- Visual Cue: Split screen: Regular vs. Work Shift Comparison
+- Audio Script: Hour 1 vs Hour 12 - notice the difference? That's what proper support feels like. Real nurses tested these during actual hospital shifts.
+
+### Script 15s #3
+- Visual Cue: Demonstration on wet surface
+- Audio Script: Spills happen. But with grip technology tested on real hospital floors, you can stay confident no matter what your shift throws at you.
+
+## 30s Scripts
+### Script 30s #1
+- Visual Cue: Day-in-the-life montage
+- Audio Script: 12 hours. Countless steps. Endless standing. When you're focused on taking care of others, who's taking care of your feet? That's where we come in. Designed with real feedback from nurses who know exactly what your feet go through. From hour one to hour twelve, you'll feel the difference. Because comfortable feet make everything better.
+
+### Script 30s #2
+- Visual Cue: Customer testimonial style
+- Audio Script: I used to dread the end of my warehouse shifts. The fatigue, the aching - it was too much. Then a colleague recommended these. Now? I actually forget I'm on my feet all day. Don't just take my word for it - try them yourself and feel the difference proper support makes.
+
+## UGC Prompts
+- Show us your before/after energy levels during a 12-hour shift
+- Share your end-of-shift foot pain rating compared to your old shoes
+- Film yourself testing the grip on your workplace's typical surfaces
+- Document your steps-per-shift count and how your feet feel afterward
+
+## Compliance Notes
+- Avoid claims about treating or curing specific medical conditions
+- Focus on comfort and support rather than medical benefits
+- Use 'designed for' language instead of 'prevents' or 'treats'
+- Include disclaimer that individual results may vary

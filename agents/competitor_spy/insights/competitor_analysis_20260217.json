@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-02-17T20:20:04.958Z",
+  "model": "anthropic/claude-3-haiku",
+  "source_file": "/Users/multbot/multbot-setup/project1/agents/competitor_spy/data/competitor_ads_sample.json",
+  "results": [
+    {
+      "ad": {
+        "ad_text": "After 12-hour shifts, your feet still feel fresh. See why nurses are switching this month.",
+        "headline": "Nurse Shift Comfort Test",
+        "image_description": "A tired nurse removing shoes after a long hospital shift and smiling in relief."
+      },
+      "analysis": {
+        "main_angle": "Social Proof",
+        "hook_type": "Statement",
+        "aggression_score": 6,
+        "target_demographic": "Nurses",
+        "estimated_spend_tier": "Medium"
+      }
+    },
+    {
+      "ad": {
+        "ad_text": "Real slip-resistance demo on a wet kitchen floor. No cuts, no edits.",
+        "headline": "Kitchen Grip Challenge",
+        "image_description": "Close-up of outsole grip on a wet tile floor with visible water."
+      },
+      "analysis": {
+        "main_angle": "Scientific Proof",
+        "hook_type": "Visual Shock",
+        "aggression_score": 7,
+        "target_demographic": "Homeowners, Cooks",
+        "estimated_spend_tier": "Medium"
+      }
+    },
+    {
+      "ad": {
+        "ad_text": "Built for warehouse pace: support, durability, and all-day stability in one pair.",
+        "headline": "Warehouse Endurance Pick",
+        "image_description": "Worker pushing a cart in a warehouse aisle with focus on footwear."
+      },
+      "analysis": {
+        "main_angle": "Durability",
+        "hook_type": "Statement",
+        "aggression_score": 6,
+        "target_demographic": "Warehouse workers",
+        "estimated_spend_tier": "Medium"
+      }
+    }
+  ]
+}

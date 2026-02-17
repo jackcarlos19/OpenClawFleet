@@ -1,0 +1,40 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "verify": "tsx agents/voc_researcher/scripts/verify_env.ts",
+    "ingest:reviews": "tsx agents/voc_researcher/scripts/ingest_reviews.ts",
+    "extract:insights": "tsx agents/voc_researcher/scripts/extract_insights.ts",
+    "aggregate:insights": "tsx agents/voc_researcher/scripts/aggregate_insights.ts",
+    "generate:brief": "tsx agents/voc_researcher/scripts/generate_brief.ts",
+    "deliver:slack": "tsx agents/voc_researcher/scripts/post_to_slack.ts",
+    "deliver:telegram": "tsx agents/voc_researcher/scripts/post_to_telegram.ts",
+    "spy:analyze": "tsx agents/competitor_spy/scripts/analyze_competitors.ts",
+    "spy:detect": "tsx agents/competitor_spy/scripts/detect_new_angles.ts",
+    "spy:report": "tsx agents/competitor_spy/scripts/write_competitor_brief.ts",
+    "supply:check": "tsx agents/supply_chain_watch/scripts/check_inventory.ts",
+    "morning:brief": "tsx scripts/run_daily_briefing.ts",
+    "status": "tsx agents/voc_researcher/scripts/report_status.ts",
+    "cleanup": "tsx agents/voc_researcher/scripts/cleanup.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@types/node": "^25.2.3",
+    "axios": "^1.13.5",
+    "csv-parse": "^6.1.0",
+    "dotenv": "^17.3.1",
+    "p-limit": "^7.3.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "zod": "^4.3.6"
+  }
+}

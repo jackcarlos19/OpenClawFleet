@@ -1,0 +1,11 @@
+{
+  "logging": {
+    "directory": "~/.openclaw/logs",
+    "format": "jsonl"
+  },
+  "models": {
+    "default": "openrouter/anthropic/claude-3.5-sonnet",
+    "extraction": "openrouter/anthropic/claude-3-haiku",
+    "generation": "openrouter/anthropic/claude-3.5-sonnet"
+  }
+}

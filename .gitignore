@@ -1,0 +1,6 @@
+# Secrets
+.env
+
+# Runtime artifacts
+logs/
+data/

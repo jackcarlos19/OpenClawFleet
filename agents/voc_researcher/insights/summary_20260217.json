@@ -1,0 +1,108 @@
+{
+  "generated_at": "2026-02-17T09:01:00.366Z",
+  "source": {
+    "raw_insights_file": "/Users/multbot/multbot-setup/project1/insights/raw_insights_20260217.jsonl",
+    "clean_reviews_file": "/Users/multbot/multbot-setup/project1/data/clean_reviews_20260217.jsonl"
+  },
+  "totals": {
+    "records": 30
+  },
+  "metrics": {
+    "top_pain_points": [
+      {
+        "phrase": "fatigue",
+        "count": 3
+      },
+      {
+        "phrase": "feet hurt",
+        "count": 3
+      },
+      {
+        "phrase": "Laces fray fast",
+        "count": 3
+      },
+      {
+        "phrase": "plantar pain",
+        "count": 3
+      },
+      {
+        "phrase": "Runs narrow",
+        "count": 3
+      }
+    ],
+    "sentiment_distribution": {
+      "positive": {
+        "count": 18,
+        "percentage": 60
+      },
+      "negative": {
+        "count": 12,
+        "percentage": 40
+      },
+      "neutral": {
+        "count": 0,
+        "percentage": 0
+      }
+    },
+    "top_jobs_to_be_done": [
+      {
+        "phrase": "clean up spills",
+        "count": 3
+      },
+      {
+        "phrase": "comfort for long nursing shift",
+        "count": 3
+      },
+      {
+        "phrase": "daily use",
+        "count": 3
+      }
+    ],
+    "top_shift_contexts": [
+      {
+        "phrase": "12 hour shift",
+        "count": 5
+      },
+      {
+        "phrase": "long nursing shift",
+        "count": 3
+      },
+      {
+        "phrase": "long warehouse shift",
+        "count": 3
+      }
+    ]
+  },
+  "quote_bank": [
+    {
+      "review_id": "5",
+      "matched_pain_point": "fatigue",
+      "quote": "Wanted less fatigue during retail shift",
+      "sentiment": "positive"
+    },
+    {
+      "review_id": "1",
+      "matched_pain_point": "feet hurt",
+      "quote": "Worked 12 hour shift and feet hurt less now",
+      "sentiment": "positive"
+    },
+    {
+      "review_id": "9",
+      "matched_pain_point": "Laces fray fast",
+      "quote": "Expected better durability for daily use",
+      "sentiment": "negative"
+    },
+    {
+      "review_id": "2",
+      "matched_pain_point": null,
+      "quote": "Needed comfort for long nursing shift",
+      "sentiment": "negative"
+    },
+    {
+      "review_id": "3",
+      "matched_pain_point": null,
+      "quote": "Slip resistance helped in wet kitchen floors",
+      "sentiment": "positive"
+    }
+  ]
+}
