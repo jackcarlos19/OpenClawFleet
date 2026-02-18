@@ -12,4 +12,4 @@
 - Re-run competitor scan on next cycle to detect emerging shifts early.
 
 Source: `/home/runner/work/OpenClawFleet/OpenClawFleet/agents/competitor_spy/insights/new_trends_20260218.json`
-Generated At: 2026-02-18T00:08:47.987Z
+Generated At: 2026-02-18T14:24:33.360Z
