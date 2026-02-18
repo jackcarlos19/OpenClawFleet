@@ -34,6 +34,25 @@ function classifySeverity(daysOfStock: number): "critical" | "warning" {
   return daysOfStock < 7 ? "critical" : "warning";
 }
 
+async function ensureInventorySeedData(inventoryPath: string): Promise<void> {
+  try {
+    await fs.access(inventoryPath);
+    return;
+  } catch {
+    // Create deterministic seed data for CI/demo if missing.
+  }
+
+  const seedCsv = [
+    "sku,name,current_stock,daily_sales_velocity",
+    "SKU-101,Comfort-Pro,50,10",
+    "SKU-102,Night-Shift,120,10",
+    "SKU-103,Warehouse-Max,500,5"
+  ].join("\n");
+
+  await fs.mkdir(path.dirname(inventoryPath), { recursive: true });
+  await fs.writeFile(inventoryPath, `${seedCsv}\n`, "utf8");
+}
+
 async function main(): Promise<void> {
   const agentRoot = path.resolve(__dirname, "..");
   const repoRoot = path.resolve(agentRoot, "..", "..");
@@ -45,6 +64,7 @@ async function main(): Promise<void> {
   const reportsDir = path.resolve(repoRoot, "reports");
   const outputPath = path.resolve(reportsDir, "daily_inventory.md");
 
+  await ensureInventorySeedData(inventoryPath);
   const csvRaw = await fs.readFile(inventoryPath, "utf8");
   const rowsRaw = parse(csvRaw, {
     columns: true,

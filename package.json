@@ -20,6 +20,7 @@
     "spy:report": "tsx agents/competitor_spy/scripts/write_competitor_brief.ts",
     "supply:check": "tsx agents/supply_chain_watch/scripts/check_inventory.ts",
     "morning:brief": "tsx scripts/run_daily_briefing.ts",
+    "preflight": "tsx scripts/security_scan.ts",
     "status": "tsx agents/voc_researcher/scripts/report_status.ts",
     "cleanup": "tsx agents/voc_researcher/scripts/cleanup.ts"
   },
