@@ -11,5 +11,5 @@
 - Continue current top-performing creative tests.
 - Re-run competitor scan on next cycle to detect emerging shifts early.
 
-Source: `/home/runner/work/OpenClawFleet/OpenClawFleet/agents/competitor_spy/insights/new_trends_20260321.json`
-Generated At: 2026-03-21T14:11:42.474Z
+Source: `/home/runner/work/OpenClawFleet/OpenClawFleet/agents/competitor_spy/insights/new_trends_20260322.json`
+Generated At: 2026-03-22T14:13:13.235Z
