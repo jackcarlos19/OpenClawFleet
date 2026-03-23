@@ -7,5 +7,5 @@
 - **SKU-102 "Night-Shift"**: Reduce ad budget or move to watchlist to avoid stockouts.
 
 ## Restock Priority
-1. **SKU-101 "Comfort-Pro"**: Expedite purchase order and increase safety stock to at least 30 days.
-2. **SKU-102 "Night-Shift"**: Monitor daily sales and place replenishment order to maintain at least 14 days of stock.
+1. **SKU-101 "Comfort-Pro"**: Expedite purchase order and increase safety stock to prevent stockout.
+2. **SKU-102 "Night-Shift"**: Monitor sales velocity and place replenishment order to maintain healthy inventory levels.
